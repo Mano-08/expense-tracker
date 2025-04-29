@@ -5,11 +5,6 @@ Track your day to day expenses through messages on discord, and save them direct
 ![Group 5](https://github.com/user-attachments/assets/1600949b-6296-470b-a639-b68197415e31)
 
 
-# Message formats:
-
-![Screenshot (83)](https://github.com/user-attachments/assets/16bee645-7452-4270-b876-5dfa0f7d9b73)
-
-
 ```
 <amount>
 <label>      <amount>
@@ -57,3 +52,10 @@ pnpm install
 ```typescript
 npm run spin
 ```
+
+
+# Message formats:
+
+![Screenshot (83)](https://github.com/user-attachments/assets/16bee645-7452-4270-b876-5dfa0f7d9b73)
+
+
