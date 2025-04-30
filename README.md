@@ -4,21 +4,13 @@ Track your day to day expenses through messages on discord, and save them direct
 
 ![Group 5](https://github.com/user-attachments/assets/1600949b-6296-470b-a639-b68197415e31)
 
-
-```
-<amount>
-<label>      <amount>
-<amount>     <description>
-<label>      <amount>         <description>
-```
-
 # Setup
 
 We need to setup both Discord Bot and a Google Cloud Project to push the expenses data into Google sheets
 
 ## Project Setup
 
-Clone the project into desired location:
+Clone the project:
 ```typescript
 git clone https://github.com/Mano-08/expense-tracker.git
 ```
@@ -55,6 +47,13 @@ npm run spin
 
 
 # Message formats:
+
+```
+<amount>
+<label>      <amount>
+<amount>     <description>
+<label>      <amount>         <description>
+```
 
 ![Screenshot (83)](https://github.com/user-attachments/assets/16bee645-7452-4270-b876-5dfa0f7d9b73)
 
